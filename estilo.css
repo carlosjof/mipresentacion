@@ -1,0 +1,28 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	background-image: url("fondo.jpg");
+	background-repeat: no-repeat;
+}
+
+#foto{
+	position: absolute;
+	top: 5%;
+	left: 45%;
+}
+
+img{
+	border-radius: 5px 30px 45px 60px;
+	width: 136px;
+}
+
+#Redes:hover{
+	border-radius: 15px;
+	color: black;
+}
+
+#datos{
+	position: absolute;
+	top: 40%;
+	left: 13%;
+	text-align: center;
+}
